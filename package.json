@@ -1,0 +1,11 @@
+{
+  "name": "MyPersonalProject",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/14makchy/Telegram-Movie-Genre-Bot.git",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "telegraf": "^4.14.0"
+  }
+}
