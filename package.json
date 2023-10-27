@@ -5,6 +5,7 @@
   "repository": "https://github.com/14makchy/Telegram-Movie-Genre-Bot.git",
   "license": "MIT",
   "dependencies": {
+    "axios": "^1.6.0",
     "dotenv": "^16.3.1",
     "telegraf": "^4.14.0"
   }
